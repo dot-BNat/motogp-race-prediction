@@ -1,0 +1,460 @@
+GrandPrix,RiderNumber,RiderName,GridPosition,SprintFinish,MainRaceFinish
+Thailand,1,Jorge Martín,,,
+Thailand,5,Johann Zarco,12,10,7
+Thailand,10,Luca Marini,16,15,12
+Thailand,12,Maverick Viñales,18,14,16
+Thailand,20,Fabio Quartararo,10,7,15
+Thailand,21,Franco Morbidelli,9,5,4
+Thailand,23,Enea Bastianini,20,18,9
+Thailand,25,Raúl Fernández,7,11,23
+Thailand,33,Brad Binder,14,8,8
+Thailand,35,Somkiat Chantra,22,19,18
+Thailand,36,Joan Mir,11,9,23
+Thailand,37,Pedro Acosta,6,6,19
+Thailand,42,Álex Rins,19,17,17
+Thailand,43,Jack Miller,4,23,11
+Thailand,49,Fabio Di Giannantonio,13,23,10
+Thailand,54,Fermín Aldeguer,15,13,13
+Thailand,63,Francesco Bagnaia,3,3,3
+Thailand,72,Marco Bezzecchi,8,12,6
+Thailand,73,Álex Márquez,2,2,2
+Thailand,79,Ai Ogura,5,4,5
+Thailand,88,Miguel Oliveira,17,16,14
+Thailand,93,Marc Márquez,1,1,1
+
+Argentina,1,Jorge Martín,,,
+Argentina,5,Johann Zarco,3,4,6
+Argentina,10,Luca Marini,16,13,11
+Argentina,12,Maverick Viñales,20,18,13
+Argentina,20,Fabio Quartararo,7,10,15
+Argentina,21,Franco Morbidelli,8,7,3
+Argentina,23,Enea Bastianini,21,14,18
+Argentina,25,Raúl Fernández,18,16,16
+Argentina,33,Brad Binder,11,23,7
+Argentina,35,Somkiat Chantra,19,17,19
+Argentina,36,Joan Mir,10,8,10
+Argentina,37,Pedro Acosta,5,9,9
+Argentina,42,Álex Rins,12,12,12
+Argentina,43,Jack Miller,13,11,14
+Argentina,49,Fabio Di Giannantonio,6,5,5
+Argentina,54,Fermín Aldeguer,14,19,17
+Argentina,63,Francesco Bagnaia,4,3,4
+Argentina,72,Marco Bezzecchi,9,6,23
+Argentina,73,Álex Márquez,2,2,2
+Argentina,79,Ai Ogura,15,15,23
+Argentina,88,Miguel Oliveira,17,23,23
+Argentina,93,Marc Márquez,1,1,1
+
+Americas,1,Jorge Martín,,,
+Americas,5,Johann Zarco,15,16,17
+Americas,10,Luca Marini,7,8,8
+Americas,12,Maverick Viñales,10,23,14
+Americas,20,Fabio Quartararo,11,6,10
+Americas,21,Franco Morbidelli,5,5,4
+Americas,23,Enea Bastianini,17,13,7
+Americas,25,Raúl Fernández,19,17,12
+Americas,33,Brad Binder,16,12,23
+Americas,35,Somkiat Chantra,13,19,16
+Americas,36,Joan Mir,7,23,23
+Americas,37,Pedro Acosta,4,7,23
+Americas,42,Álex Rins,14,15,11
+Americas,43,Jack Miller,9,14,5
+Americas,49,Fabio Di Giannantonio,2,4,3
+Americas,54,Fermín Aldeguer,12,11,23
+Americas,63,Francesco Bagnaia,6,3,1
+Americas,72,Marco Bezzecchi,13,10,6
+Americas,73,Álex Márquez,3,2,2
+Americas,79,Ai Ogura,18,9,9
+Americas,88,Miguel Oliveira,,,
+Americas,93,Marc Márquez,1,1,23
+
+Qatar,1,Jorge Martín,14,16,
+Qatar,5,Johann Zarco,7,23,4
+Qatar,10,Luca Marini,15,15,10
+Qatar,12,Maverick Viñales,6,10,14
+Qatar,20,Fabio Quartararo,3,5,7
+Qatar,21,Franco Morbidelli,4,3,3
+Qatar,23,Enea Bastianini,20,13,11
+Qatar,25,Raúl Fernández,17,17,17
+Qatar,33,Brad Binder,18,14,13
+Qatar,35,Somkiat Chantra,22,20,18
+Qatar,36,Joan Mir,21,,23
+Qatar,37,Pedro Acosta,12,11,8
+Qatar,42,Álex Rins,9,12,12
+Qatar,43,Jack Miller,16,19,23
+Qatar,49,Fabio Di Giannantonio,5,6,16
+Qatar,54,Fermín Aldeguer,8,4,5
+Qatar,63,Francesco Bagnaia,11,8,2
+Qatar,72,Marco Bezzecchi,13,9,9
+Qatar,73,Álex Márquez,2,2,6
+Qatar,79,Ai Ogura,10,7,15
+Qatar,88,Miguel Oliveira,,,
+Qatar,93,Marc Márquez,1,1,1
+
+Spain,1,Jorge Martín,,,
+Spain,5,Johann Zarco,10,23,11
+Spain,10,Luca Marini,16,13,10
+Spain,12,Maverick Viñales,6,7,4
+Spain,20,Fabio Quartararo,1,23,2
+Spain,21,Franco Morbidelli,5,4,23
+Spain,23,Enea Bastianini,18,14,9
+Spain,25,Raúl Fernández,17,16,15
+Spain,33,Brad Binder,13,11,6
+Spain,35,Somkiat Chantra,21,20,23
+Spain,36,Joan Mir,9,9,23
+Spain,37,Pedro Acosta,12,10,7
+Spain,42,Álex Rins,23,15,13
+Spain,43,Jack Miller,14,23,23
+Spain,49,Fabio Di Giannantonio,8,6,5
+Spain,54,Fermín Aldeguer,7,5,23
+Spain,63,Francesco Bagnaia,3,3,3
+Spain,72,Marco Bezzecchi,11,8,14
+Spain,73,Álex Márquez,4,2,1
+Spain,79,Ai Ogura,15,12,8
+Spain,88,Miguel Oliveira,,,
+Spain,93,Marc Márquez,2,1,12
+
+France,1,Jorge Martín,,,
+France,5,Johann Zarco,11,6,1
+France,10,Luca Marini,16,12,11
+France,12,Maverick Viñales,5,5,5
+France,20,Fabio Quartararo,1,4,23
+France,21,Franco Morbidelli,9,15,15
+France,23,Enea Bastianini,18,13,13
+France,25,Raúl Fernández,10,10,7
+France,33,Brad Binder,13,23,23
+France,35,Somkiat Chantra,,,
+France,36,Joan Mir,15,9,23
+France,37,Pedro Acosta,12,19,4
+France,42,Álex Rins,14,15,12
+France,43,Jack Miller,8,11,23
+France,49,Fabio Di Giannantonio,17,7,8
+France,54,Fermín Aldeguer,4,3,3
+France,63,Francesco Bagnaia,6,23,16
+France,72,Marco Bezzecchi,7,17,14
+France,73,Álex Márquez,3,2,23
+France,79,Ai Ogura,19,14,10
+France,88,Miguel Oliveira,,,
+France,93,Marc Márquez,2,1,2
+
+Great Britain,1,Jorge Martín,,,
+Great Britain,5,Johann Zarco,9,1,2
+Great Britain,10,Luca Marini,8,10,15
+Great Britain,12,Maverick Viñales,18,13,11
+Great Britain,20,Fabio Quartararo,1,7,23
+Great Britain,21,Franco Morbidelli,13,11,4
+Great Britain,23,Enea Bastianini,17,15,17
+Great Britain,25,Raúl Fernández,16,19,12
+Great Britain,33,Brad Binder,19,23,14
+Great Britain,35,Somkiat Chantra,22,21,19
+Great Britain,36,Joan Mir,12,12,10
+Great Britain,37,Pedro Acosta,14,8,6
+Great Britain,42,Álex Rins,11,20,13
+Great Britain,43,Jack Miller,6,9,7
+Great Britain,49,Fabio Di Giannantonio,7,3,9
+Great Britain,54,Fermín Aldeguer,5,14,8
+Great Britain,63,Francesco Bagnaia,3,6,23
+Great Britain,72,Marco Bezzecchi,10,4,1
+Great Britain,73,Álex Márquez,2,1,5
+Great Britain,79,Ai Ogura,,,
+Great Britain,88,Miguel Oliveira,15,16,16
+Great Britain,93,Marc Márquez,4,2,3
+
+Aragon,1,Jorge Martín,,,
+Aragon,5,Johann Zarco,12,16,23
+Aragon,10,Luca Marini,,,
+Aragon,12,Maverick Viñales,8,7,18
+Aragon,20,Fabio Quartararo,9,11,23
+Aragon,21,Franco Morbidelli,3,4,5
+Aragon,23,Enea Bastianini,17,17,12
+Aragon,25,Raúl Fernández,13,10,10
+Aragon,33,Brad Binder,6,9,23
+Aragon,35,Somkiat Chantra,21,19,16
+Aragon,36,Joan Mir,11,23,7
+Aragon,37,Pedro Acosta,5,5,4
+Aragon,42,Álex Rins,15,14,11
+Aragon,43,Jack Miller,14,13,14
+Aragon,49,Fabio Di Giannantonio,10,6,9
+Aragon,54,Fermín Aldeguer,7,3,6
+Aragon,63,Francesco Bagnaia,4,12,3
+Aragon,72,Marco Bezzecchi,20,8,8
+Aragon,73,Álex Márquez,2,2,2
+Aragon,79,Ai Ogura,,,
+Aragon,88,Miguel Oliveira,16,15,15
+Aragon,93,Marc Márquez,1,1,1
+Italy,1,Jorge Martín,,,
+Italy,5,Johann Zarco,14,23,23
+Italy,10,Luca Marini,,,
+Italy,12,Maverick Viñales,5,14,23
+Italy,20,Fabio Quartararo,4,12,14
+Italy,21,Franco Morbidelli,6,6,6
+Italy,23,Enea Bastianini,16,11,23
+Italy,25,Raúl Fernández,11,8,7
+Italy,33,Brad Binder,15,23,9
+Italy,35,Somkiat Chantra,22,19,18
+Italy,36,Joan Mir,18,14,11
+Italy,37,Pedro Acosta,8,23,8
+Italy,42,Álex Rins,9,18,15
+Italy,43,Jack Miller,13,16,23
+Italy,49,Fabio Di Giannantonio,7,5,3
+Italy,54,Fermín Aldeguer,12,9,12
+Italy,63,Francesco Bagnaia,2,3,4
+Italy,72,Marco Bezzecchi,10,6,5
+Italy,73,Álex Márquez,3,2,2
+Italy,79,Ai Ogura,21,12,10
+Italy,88,Miguel Oliveira,17,13,13
+Italy,93,Marc Márquez,1,1,1
+
+Netherlands,1,Jorge Martín,,,
+Netherlands,5,Johann Zarco,12,11,12
+Netherlands,10,Luca Marini,,,
+Netherlands,12,Maverick Viñales,10,6,5
+Netherlands,20,Fabio Quartararo,1,23,10
+Netherlands,21,Franco Morbidelli,6,8,7
+Netherlands,23,Enea Bastianini,20,13,9
+Netherlands,25,Raúl Fernández,11,23,8
+Netherlands,33,Brad Binder,16,10,11
+Netherlands,35,Somkiat Chantra,22,19,15
+Netherlands,36,Joan Mir,13,23,23
+Netherlands,37,Pedro Acosta,9,9,4
+Netherlands,42,Álex Rins,18,15,13
+Netherlands,43,Jack Miller,14,14,14
+Netherlands,49,Fabio Di Giannantonio,8,4,6
+Netherlands,54,Fermín Aldeguer,7,7,23
+Netherlands,63,Francesco Bagnaia,2,5,3
+Netherlands,72,Marco Bezzecchi,5,3,2
+Netherlands,73,Álex Márquez,3,2,23
+Netherlands,79,Ai Ogura,19,17,23
+Netherlands,88,Miguel Oliveira,17,12,23
+Netherlands,93,Marc Márquez,4,1,1
+
+Germany,1,Jorge Martín,,,
+Germany,5,Johann Zarco,2,7,23
+Germany,10,Luca Marini,13,16,6
+Germany,12,Maverick Viñales,20,,
+Germany,20,Fabio Quartararo,6,3,4
+Germany,21,Franco Morbidelli,19,23,
+Germany,23,Enea Bastianini,,,
+Germany,25,Raúl Fernández,14,13,9
+Germany,33,Brad Binder,9,6,7
+Germany,35,Somkiat Chantra,,,
+Germany,36,Joan Mir,15,14,23
+Germany,37,Pedro Acosta,4,9,23
+Germany,42,Álex Rins,16,15,10
+Germany,43,Jack Miller,8,5,8
+Germany,49,Fabio Di Giannantonio,7,4,23
+Germany,54,Fermín Aldeguer,12,10,5
+Germany,63,Francesco Bagnaia,10,12,3
+Germany,72,Marco Bezzecchi,3,2,23
+Germany,73,Álex Márquez,5,8,2
+Germany,79,Ai Ogura,17,17,23
+Germany,88,Miguel Oliveira,11,11,23
+Germany,93,Marc Márquez,1,1,1
+
+Czech Republic,1,Jorge Martín,12,11,7
+Czech Republic,5,Johann Zarco,9,8,13
+Czech Republic,10,Luca Marini,16,15,12
+Czech Republic,12,Maverick Viñales,,,
+Czech Republic,20,Fabio Quartararo,3,5,6
+Czech Republic,21,Franco Morbidelli,,,
+Czech Republic,23,Enea Bastianini,11,3,23
+Czech Republic,25,Raúl Fernández,6,6,5
+Czech Republic,33,Brad Binder,19,10,8
+Czech Republic,35,Somkiat Chantra,,,
+Czech Republic,36,Joan Mir,5,19,23
+Czech Republic,37,Pedro Acosta,7,2,3
+Czech Republic,42,Álex Rins,15,18,15
+Czech Republic,43,Jack Miller,10,12,10
+Czech Republic,49,Fabio Di Giannantonio,13,23,16
+Czech Republic,54,Fermín Aldeguer,18,14,11
+Czech Republic,63,Francesco Bagnaia,1,7,4
+Czech Republic,72,Marco Bezzecchi,4,4,2
+Czech Republic,73,Álex Márquez,8,17,23
+Czech Republic,79,Ai Ogura,20,16,14
+Czech Republic,88,Miguel Oliveira,17,13,17
+Czech Republic,93,Marc Márquez,2,1,1
+Austria,1,Jorge Martín,14,10,23
+Austria,5,Johann Zarco,12,9,12
+Austria,10,Luca Marini,13,12,13
+Austria,12,Maverick Viñales,,,
+Austria,20,Fabio Quartararo,16,11,15
+Austria,21,Franco Morbidelli,8,14,11
+Austria,23,Enea Bastianini,5,7,5
+Austria,25,Raúl Fernández,9,23,9
+Austria,33,Brad Binder,11,5,7
+Austria,35,Somkiat Chantra,,,
+Austria,36,Joan Mir,10,13,6
+Austria,37,Pedro Acosta,7,3,4
+Austria,42,Álex Rins,17,16,16
+Austria,43,Jack Miller,20,17,18
+Austria,49,Fabio Di Giannantonio,15,8,23
+Austria,54,Fermín Aldeguer,6,6,2
+Austria,63,Francesco Bagnaia,3,23,8
+Austria,72,Marco Bezzecchi,1,4,3
+Austria,73,Álex Márquez,2,2,10
+Austria,79,Ai Ogura,19,15,14
+Austria,88,Miguel Oliveira,18,18,17
+Austria,93,Marc Márquez,4,1,1
+
+Hungary,1,Jorge Martín,16,9,4
+Hungary,5,Johann Zarco,18,23,23
+Hungary,10,Luca Marini,9,4,5
+Hungary,12,Maverick Viñales,,,
+Hungary,20,Fabio Quartararo,6,23,10
+Hungary,21,Franco Morbidelli,5,3,6
+Hungary,23,Enea Bastianini,4,23,23
+Hungary,25,Raúl Fernández,15,11,23
+Hungary,33,Brad Binder,12,18,7
+Hungary,35,Somkiat Chantra,,,
+Hungary,36,Joan Mir,10,6,23
+Hungary,37,Pedro Acosta,7,17,2
+Hungary,42,Álex Rins,20,16,13
+Hungary,43,Jack Miller,17,12,23
+Hungary,49,Fabio Di Giannantonio,3,2,15
+Hungary,54,Fermín Aldeguer,8,5,16
+Hungary,63,Francesco Bagnaia,13,13,9
+Hungary,72,Marco Bezzecchi,2,7,3
+Hungary,73,Álex Márquez,14,8,14
+Hungary,79,Ai Ogura,21,15,11
+Hungary,88,Miguel Oliveira,19,14,12
+Hungary,93,Marc Márquez,1,1,1
+
+Catalunya,1,Jorge Martín,17,23,10
+Catalunya,5,Johann Zarco,7,7,23
+Catalunya,10,Luca Marini,10,8,8
+Catalunya,12,Maverick Viñales,22,17,13
+Catalunya,20,Fabio Quartararo,2,2,5
+Catalunya,21,Franco Morbidelli,4,23,23
+Catalunya,23,Enea Bastianini,9,5,3
+Catalunya,25,Raúl Fernández,15,11,11
+Catalunya,33,Brad Binder,11,6,23
+Catalunya,35,Somkiat Chantra,24,18,16
+Catalunya,36,Joan Mir,20,13,12
+Catalunya,37,Pedro Acosta,5,4,4
+Catalunya,42,Álex Rins,19,15,23
+Catalunya,43,Jack Miller,14,12,14
+Catalunya,49,Fabio Di Giannantonio,6,3,23
+Catalunya,54,Fermín Aldeguer,13,23,15
+Catalunya,63,Francesco Bagnaia,21,14,7
+Catalunya,72,Marco Bezzecchi,12,23,23
+Catalunya,73,Álex Márquez,1,23,1
+Catalunya,79,Ai Ogura,8,9,6
+Catalunya,88,Miguel Oliveira,16,10,9
+Catalunya,93,Marc Márquez,3,1,2
+
+San Marino,1,Jorge Martín,11,8,13
+San Marino,5,Johann Zarco,19,11,16
+San Marino,10,Luca Marini,6,7,7
+San Marino,12,Maverick Viñales,17,15,23
+San Marino,20,Fabio Quartararo,3,23,8
+San Marino,21,Franco Morbidelli,5,4,4
+San Marino,23,Enea Bastianini,20,10,23
+San Marino,25,Raúl Fernández,14,9,11
+San Marino,33,Brad Binder,15,23,10
+San Marino,35,Somkiat Chantra,23,19,15
+San Marino,36,Joan Mir,12,,23
+San Marino,37,Pedro Acosta,9,5,23
+San Marino,42,Álex Rins,18,17,23
+San Marino,43,Jack Miller,21,14,12
+San Marino,49,Fabio Di Giannantonio,7,3,5
+San Marino,54,Fermín Aldeguer,10,6,6
+San Marino,63,Francesco Bagnaia,8,13,23
+San Marino,72,Marco Bezzecchi,1,1,2
+San Marino,73,Álex Márquez,2,2,3
+San Marino,79,Ai Ogura,15,12,23
+San Marino,88,Miguel Oliveira,13,16,9
+San Marino,93,Marc Márquez,4,23,1
+
+Japan,1,Jorge Martín,17,23,
+Japan,5,Johann Zarco,11,23,9
+Japan,10,Luca Marini,7,7,23
+Japan,12,Maverick Viñales,,,
+Japan,20,Fabio Quartararo,5,6,8
+Japan,21,Franco Morbidelli,6,5,5
+Japan,23,Enea Bastianini,19,23,11
+Japan,25,Raúl Fernández,10,8,7
+Japan,33,Brad Binder,16,12,12
+Japan,35,Somkiat Chantra,20,17,15
+Japan,36,Joan Mir,2,4,3
+Japan,37,Pedro Acosta,4,3,17
+Japan,42,Álex Rins,17,18,18
+Japan,43,Jack Miller,13,23,23
+Japan,49,Fabio Di Giannantonio,12,13,13
+Japan,54,Fermín Aldeguer,14,11,10
+Japan,63,Francesco Bagnaia,1,1,1
+Japan,72,Marco Bezzecchi,9,23,4
+Japan,73,Álex Márquez,8,10,6
+Japan,79,Ai Ogura,13,9,
+Japan,88,Miguel Oliveira,15,15,14
+Japan,93,Marc Márquez,3,2,2
+
+Indonesia,1,Jorge Martín,,,
+Indonesia,5,Johann Zarco,18,23,12
+Indonesia,10,Luca Marini,6,13,5
+Indonesia,12,Maverick Viñales,,,
+Indonesia,20,Fabio Quartararo,8,23,7
+Indonesia,21,Franco Morbidelli,13,7,8
+Indonesia,23,Enea Bastianini,17,23,23
+Indonesia,25,Raúl Fernández,3,3,6
+Indonesia,33,Brad Binder,15,10,4
+Indonesia,35,Somkiat Chantra,19,23,13
+Indonesia,36,Joan Mir,12,5,23
+Indonesia,37,Pedro Acosta,5,23,2
+Indonesia,42,Álex Rins,4,12,10
+Indonesia,43,Jack Miller,14,11,14
+Indonesia,49,Fabio Di Giannantonio,11,8,9
+Indonesia,54,Fermín Aldeguer,2,2,1
+Indonesia,63,Francesco Bagnaia,16,14,23
+Indonesia,72,Marco Bezzecchi,1,1,23
+Indonesia,73,Álex Márquez,7,4,3
+Indonesia,79,Ai Ogura,,,
+Indonesia,88,Miguel Oliveira,10,9,11
+Indonesia,93,Marc Márquez,9,6,23
+
+Australia,1,Jorge Martín,,,
+Australia,5,Johann Zarco,15,23,23
+Australia,10,Luca Marini,10,8,6
+Australia,12,Maverick Viñales,,,
+Australia,20,Fabio Quartararo,1,7,11
+Australia,21,Franco Morbidelli,12,15,15
+Australia,23,Enea Bastianini,20,9,9
+Australia,25,Raúl Fernández,4,2,1
+Australia,33,Brad Binder,16,8,8
+Australia,35,Somkiat Chantra,17,17,17
+Australia,36,Joan Mir,22,11,23
+Australia,37,Pedro Acosta,5,3,5
+Australia,42,Álex Rins,11,13,7
+Australia,43,Jack Miller,3,4,23
+Australia,49,Fabio Di Giannantonio,10,5,2
+Australia,54,Fermín Aldeguer,7,7,14
+Australia,63,Francesco Bagnaia,13,19,23
+Australia,72,Marco Bezzecchi,2,1,3
+Australia,73,Álex Márquez,6,6,4
+Australia,79,Ai Ogura,14,13,13
+Australia,88,Miguel Oliveira,14,12,12
+Australia,93,Marc Márquez,,,
+
+Malaysia,1,Jorge Martín,,,
+Malaysia,5,Johann Zarco,9,8,12
+Malaysia,10,Luca Marini,13,23,8
+Malaysia,12,Maverick Viñales,,,
+Malaysia,20,Fabio Quartararo,4,5,5
+Malaysia,21,Franco Morbidelli,3,4,4
+Malaysia,23,Enea Bastianini,19,9,7
+Malaysia,25,Raúl Fernández,15,13,23
+Malaysia,33,Brad Binder,18,16,9
+Malaysia,35,Somkiat Chantra,20,17,15
+Malaysia,36,Joan Mir,7,23,3
+Malaysia,37,Pedro Acosta,5,3,2
+Malaysia,42,Álex Rins,10,15,13
+Malaysia,43,Jack Miller,11,14,14
+Malaysia,49,Fabio Di Giannantonio,8,10,6
+Malaysia,54,Fermín Aldeguer,6,7,23
+Malaysia,63,Francesco Bagnaia,1,1,23
+Malaysia,72,Marco Bezzecchi,14,6,11
+Malaysia,73,Álex Márquez,2,2,1
+Malaysia,79,Ai Ogura,17,12,10
+Malaysia,88,Miguel Oliveira,16,23,19
+Malaysia,93,Marc Márquez,,,
+
+
